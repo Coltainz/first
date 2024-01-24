@@ -9,5 +9,7 @@ public class App {
         friends.append("Toji");
         friends.append("Gojo");
         friends.displayList();
+
+        System.out.println("git change test");
     }
 }
